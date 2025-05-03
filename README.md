@@ -8,7 +8,7 @@ It contains simulations using Statevector, measurement techniques, and quantum c
 ## 🧠 Author
 **Imene BELKORCHIA**  
 Master's student in Embedded Systems Electronics, Algeria 🇩🇿  
-GitHub: [YourUsername](https://github.com/YourUsername)
+GitHub: [YourUsername](https://github.com/cer-es)
 
 ## 📘 Content
 - Quantum Statevector simulations
