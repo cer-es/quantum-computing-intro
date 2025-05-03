@@ -4,7 +4,7 @@
 
 ---
 
-## 👋 Welcome
+## Welcome
 
 This project is a beginner-level tutorial notebook for learning **Quantum Computing** using **IBM's Qiskit**. It walks through the fundamental concepts like quantum states, measurements, unitary operations, and quantum circuits — all in code using Python and Qiskit.
 
@@ -61,7 +61,7 @@ Feel free to use, modify, and share — but always credit the original authors (
 
 ---
 
-##🤝 Connect with Me
+## Connect with Me
 
 **GitHub: [cer-es](https://github.com/YourUsername)**
 
