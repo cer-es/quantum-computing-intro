@@ -14,7 +14,7 @@ This notebook is part of my personal journey into the world of **Quantum Technol
 
 ## 📚 Course Reference
 
-This content is based on **Lesson 1** from the [IBM Quantum Learning Course](https://quantum-computing.ibm.com/), adapted and annotated with additional explanations, visualizations, and simulations to reinforce understanding.
+This content is based on **Lesson 1** from the [IBM Quantum Learning Course: Basics of Quantum Information](https://learning.quantum.ibm.com/course/basics-of-quantum-information), adapted and annotated with additional explanations, visualizations, and simulations to reinforce understanding.
 
 All Qiskit-based examples, including `Statevector`, `Operator`, `QuantumCircuit`, and measurement simulations, are demonstrated clearly.
 
