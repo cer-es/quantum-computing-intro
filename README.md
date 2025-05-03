@@ -1,5 +1,3 @@
-# quantum-computing-intro
-
 # Quantum Computing: First Steps with IBM Qiskit
 
 This project is my personal notebook from IBM's Quantum Computing course.  
