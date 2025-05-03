@@ -1,4 +1,4 @@
-![Quantum Computing Banner](banner.png)
+![Quantum Banner](./banner/banner_quantum_tutorial.png)
 # Quantum Computing: First Steps with IBM Qiskit
 
 This project is my personal notebook from IBM's Quantum Computing course.  
