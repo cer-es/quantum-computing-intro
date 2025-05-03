@@ -61,12 +61,13 @@ Feel free to use, modify, and share — but always credit the original authors (
 
 ---
 
-🤝 Connect with Me
-GitHub: [cer-es](https://github.com/YourUsername)
+##🤝 Connect with Me
 
-LinkedIn: [Imene Belkorchia](www.linkedin.com/in/imene-belkorchia-543778349)
+**GitHub: [cer-es](https://github.com/YourUsername)**
 
-Kaggle: [Imene Belkorchia](https://www.kaggle.com/imenebelko)
+**LinkedIn: [Imene Belkorchia](www.linkedin.com/in/imene-belkorchia-543778349)**
+
+**Kaggle: [Imene Belkorchia](https://www.kaggle.com/imenebelko)**
 
 ---
 
