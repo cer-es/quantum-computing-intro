@@ -65,7 +65,7 @@ Feel free to use, modify, and share — but always credit the original authors (
 
 **GitHub: [cer-es](https://github.com/YourUsername)**
 
-**LinkedIn: [Imene Belkorchia](www.linkedin.com/in/imene-belkorchia-543778349)**
+**LinkedIn: [Imene Belkorchia](https://www.linkedin.com/in/imene-belkorchia-543778349/)**
 
 **Kaggle: [Imene Belkorchia](https://www.kaggle.com/imenebelko)**
 
